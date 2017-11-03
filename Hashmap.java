@@ -19,7 +19,10 @@ public class Hashmap {
         }
         
         public Object get(Object key) {         
-
+            // Here is some code
+            // Here is some more code.
+            // Blah blah blah
+            // All hail the king.
         }
         
         private int getIndexFor(ArrayList<KeyValuePair> bucket, Object key) {
