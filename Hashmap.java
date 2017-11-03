@@ -23,7 +23,10 @@ public class Hashmap {
         }
         
         private int getIndexFor(ArrayList<KeyValuePair> bucket, Object key) {
-
+                // How-diddly-doodly
+                // More code!
+                // I'm getting quite good at this.
+                // This shouldn't cause a merge conflict, but if it does it will be automatic.
         }
         
         private ArrayList<KeyValuePair> getBucket(Object key) {
